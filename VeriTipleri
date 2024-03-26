@@ -1,0 +1,43 @@
+
+                                      // ARDUNİO VERİ TİPLERİ
+ 
+1. int: Tam sayı değerlerini temsil eder. Örneğin, -32768 ile 32767 arasındaki tamsayılar için 
+kullanılır.
+
+2. long: Daha geniş bir aralıktaki tam sayı değerlerini temsil eder. -2,147,483,648 ile 
+2,147,483,647 arasındaki tam sayılar için kullanılır.
+
+3. float: Ondalıklı sayıları temsil eder. Örneğin, 3.14 gibi.
+
+4. double: Daha yüksek hassasiyet gerektiren ondalıklı sayıları temsil eder. float'tan daha fazla 
+bellek kullanır.
+
+5. char: Tek bir karakteri temsil eder. ASCII karakter setindeki karakterler için kullanılır. 
+
+6. boolean: Mantıksal değerleri temsil eder. Yani, true veya false.
+
+7. byte: 0 ile 255 arasındaki değerleri temsil eder. Özellikle bellek tasarrufu sağlamak için 
+kullanılır
+
+8. unsigned int: Tam sayı değerlerini temsil eder, ancak sıfırın altında değer almaz. 0 ile 65535 
+arasındaki tamsayılar için kullanılır.
+
+9. unsigned long: Daha geniş bir aralıktaki tam sayı değerlerini temsil eder, ancak sıfırın altında 
+değer almaz. 0 ile 4,294,967,295 arasındaki tam sayılar için kullanılır.
+
+10. unsigned char: Tek bir karakteri temsil eder, ancak imzalanmamışdır, yani sıfırın altındaki 
+değerler alınmaz, 0 ile 255 arasındaki sayılar için kullanılır.
+
+11. word: Genellikle 16-bit (2 byte) tam sayı değerlerini temsil eder. unsigned int ile aynı aralıkta 
+değerler alır: 0 ile 65535 arasındaki tam sayılar.
+
+12. short: Daha kısa bir tam sayı türüdür. Genellikle 16 bit kullanır.
+
+13. unsigned short: İmzalı olmayan kısa tam sayıları temsil eder.
+
+14. size_t: Bellek boyutlarını temsil etmek için kullanılır, genellikle dizinleme ve bellek kullanımı 
+için kullanılır
+
+İLetişim    E-Mail          mustafa.muhammedi1396@gmail.com
+
+.
